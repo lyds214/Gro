@@ -2,7 +2,7 @@
 A Flutter and Firebase project created for BeachHacks 2021
 
 ## Live Demo
-https://youtu.be/xdWMEW2j9AA
+[https://youtu.be/xdWMEW2j9AA](https://devpost.com/software/gro-17ds9o)
 
 ## Getting Started
 1. Install Flutter (https://flutter.dev/docs/get-started/install)
