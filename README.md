@@ -1,5 +1,5 @@
 # Gro
-A Flutter and Firebase project created for BeachHacks 2021
+A Flutter and Firebase project where it helps user to keep track of plant growth. This was created for BeachHacks 2021.
 
 ## Live Demo
 [https://youtu.be/xdWMEW2j9AA](https://devpost.com/software/gro-17ds9o)
